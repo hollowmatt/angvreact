@@ -1,28 +1,23 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a simple application in Rails to demonstrate integration with 
+angular versus integration with React.
 
-Things you may want to cover:
+Things:
 
-* Ruby version
+* angular branch: where the angular stuff is
 
-* System dependencies
+* react branch: where the react stuff is
 
-* Configuration
+* master branch: where the initial rails config is
 
-* Database creation
+* Database creation: none
 
-* Database initialization
+* Rails version: 4.2.5
 
-* How to run the test suite
+* Ruby version: 2.1.0
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
+This is from the blog: http://tutorials.pluralsight.com/ruby-ruby-on-rails/react-vs-angular-2-integration-with-rails
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
